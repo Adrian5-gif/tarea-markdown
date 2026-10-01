@@ -21,7 +21,7 @@ También puedo escribir `código en línea` o un bloque completo:
 [![Logo de Markdown](https://markdown-here.com/img/icon256.png)](https://es.wikipedia.org/wiki/Markdown)
 
 ### Punto 5: Imagen desde el repositorio local
-![Mi imagen local](images/foto.png)
+![Mi imagen local](foto.png)
 
 ### Punto 7: Enlace a un nuevo documento
 [Haz clic aquí para ir al segundo documento](nuevo_documento.md)
